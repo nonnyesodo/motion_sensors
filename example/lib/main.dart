@@ -86,7 +86,7 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('Motion Sensors'),
+          title: const Text('Motion Sensors')
         ),
         body: SingleChildScrollView(
           child: Column(
